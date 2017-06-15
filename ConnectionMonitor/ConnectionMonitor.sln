@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnectionMonitor", "ConnectionMonitor.csproj", "{57613E84-B199-477E-8A3F-4A35B5F1B3AC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{85D23EC0-0C4A-4000-B323-F65D55B2D791}"
+	ProjectSection(SolutionItems) = preProject
+		install_service.bat = install_service.bat
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57613E84-B199-477E-8A3F-4A35B5F1B3AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57613E84-B199-477E-8A3F-4A35B5F1B3AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57613E84-B199-477E-8A3F-4A35B5F1B3AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57613E84-B199-477E-8A3F-4A35B5F1B3AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
